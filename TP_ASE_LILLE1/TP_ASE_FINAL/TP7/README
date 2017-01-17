@@ -1,0 +1,24 @@
+ABAKARIM marouane
+AFRASS ilias
+=========================================
+Fichiers à rendre :
+   
+Readme
+Makefile
+mknfs
+dfs
+
+=========================================
+				TP7
+				
+/!\ La commande ./dfs n'est opérationnelle !
+
+Pour ce TP, nous vous fournissons le tout afin que vous puissiez compiler sans aucun aucun soucis.
+Les fichiers sources se trouvent dans le dossier tpfs.
+Pour compiler, allez dans le dossier tpfs et faites un make.
+Pour tester, faites un make puis lancez la commande ./mknfs
+
+Conseils d'utilisation : 
+	./mknfs
+	./dfs
+

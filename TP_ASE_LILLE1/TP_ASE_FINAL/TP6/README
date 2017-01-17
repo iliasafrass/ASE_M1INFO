@@ -1,0 +1,25 @@
+ABAKARIM Marouane
+AFRASS 	Ilias
+
+=========================================
+Fichiers à rendre :
+   
+Readme
+Makefile
+drive.c
+drive.h
+dmps
+frmt
+
+=========================================
+				TP4
+
+Pour ce TP, nous vous fournissons le tout afin que vous puissiez compiler sans aucun aucun soucis.
+Les fichiers sources se trouvent dans le dossier tpfs.
+Pour compiler, allez dans le dossier tpfs et faite un make.
+Vous aurez donc les executables "dmps" et "frmt" (déjà présents)
+
+Conseils d'utilisation : 
+	./dmps [numero cylindre] [numero secteur]
+	./frmt [numero cylindre] [numero secteur] [nombre secteurs]
+
